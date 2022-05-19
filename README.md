@@ -23,6 +23,7 @@ You should see three floating point number (infereces) in the browser
 
 References
 
+- https://onnxruntime.ai/docs/tutorials/web/
 - https://github.com/onnx/tensorflow-onnx
 - https://onnxruntime.ai/docs/tutorials/tf-get-started.html
 - https://github.com/microsoft/onnxruntime/tree/master/js/web
